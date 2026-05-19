@@ -18,8 +18,7 @@
 #__________________________________________________________________________________
 # -- SET -->   { }
 
-# * o set elimina duplicados, então tipo se a gente mandar imprimir "a,b,c,a", ele vai imprimir somente "a,b,c,a". ao contrario do LISTS E TUPLES que vão imprimir o "a" duas vezes como digitado.
-
+# * o set elimina duplicados, então tipo se a gente mandar imprimir "a,b,c,a", ele vai imprimir somente "a,b,c"
 # * o set também é desordenado, então toda vez que clicarmos no play, ele vai entregar as letras em ordem diferente, enquanto TUPLES E LISTS entregam ordenados.
 
 # * como set não tem ordem, não é possivel ter INDEX, que é mais ou menos como sabemos onde esta a letra que queremos, ela varia então nenhuma letra vai ter posição fixa.
